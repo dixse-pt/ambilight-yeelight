@@ -1,6 +1,6 @@
 {
   "domain": "philips_ambilight+yeelight",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "name": "Philips Ambilight+Yeelight",
   "documentation": "https://github.com/jomwells/ambilight-yeelight",
   "dependencies": [],
